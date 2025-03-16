@@ -43,7 +43,7 @@ Helps capture additional information or facts missed by either model.
 
 ### Evaluation Metrics
 
-Following best practices, three evaluation techniques were used to assess the summarization quality:
+Following best practices,BERTScore evaluation technique was used to assess the summarization quality:
 BERTScore - Measures semantic similarity between the article and generated summaries.
 
 ### Conclusion
