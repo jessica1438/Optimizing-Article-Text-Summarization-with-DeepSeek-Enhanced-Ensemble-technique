@@ -1,5 +1,4 @@
 # Optimizing-Article-Text-Summarization-with-DeepSeek-Enhanced-Ensemble-technique
-This project focuses on text summarization using the CNN/Daily Mail dataset available on Hugging Face. The dataset was used to generate extractive and abstractive summaries using multiple LLMs, followed by an ensemble technique to refine the generated summaries. The evaluation of the summarization quality was carried out using multiple metrics to ensure a robust analysis.
 
 ### Overview
 
